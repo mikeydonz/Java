@@ -1,4 +1,4 @@
-# Planting-A-Tree-Java
+# Planting A Tree
 
 These are the first few lines of Java I've ever written. This will be used as a starting point. 
 
